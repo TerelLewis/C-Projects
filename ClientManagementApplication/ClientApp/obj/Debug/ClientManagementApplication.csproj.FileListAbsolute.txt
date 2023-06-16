@@ -1,0 +1,11 @@
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\bin\Debug\ClientManagementApplicationLibrary.dll
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\bin\Debug\ClientManagementApplicationLibrary.pdb
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\obj\Debug\ClientManagementApplication.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\obj\Debug\ClientManagementApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\obj\Debug\ClientManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\TLewi\source\repos\ClientApp1\ClientApp\obj\Debug\ClientManagementApplication.csproj.CopyComplete

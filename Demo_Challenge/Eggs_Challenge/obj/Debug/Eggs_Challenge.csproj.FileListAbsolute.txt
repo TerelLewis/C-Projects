@@ -1,0 +1,8 @@
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\bin\Debug\Eggs_Challenge.exe.config
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\bin\Debug\Eggs_Challenge.exe
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\bin\Debug\Eggs_Challenge.pdb
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\obj\Debug\Eggs_Challenge.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\obj\Debug\Eggs_Challenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\obj\Debug\Eggs_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\obj\Debug\Eggs_Challenge.exe
+C:\Users\TLewi\source\repos\Demo_Challenge\Eggs_Challenge\obj\Debug\Eggs_Challenge.pdb

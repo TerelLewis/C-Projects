@@ -1,0 +1,6 @@
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementApplicationLibrary\bin\Debug\ClientManagementApplicationLibrary.dll
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementApplicationLibrary\bin\Debug\ClientManagementApplicationLibrary.pdb
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementApplicationLibrary\obj\Debug\ClientManagementApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementApplicationLibrary\obj\Debug\ClientManagementApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementApplicationLibrary\obj\Debug\ClientManagementApplicationLibrary.dll
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementApplicationLibrary\obj\Debug\ClientManagementApplicationLibrary.pdb

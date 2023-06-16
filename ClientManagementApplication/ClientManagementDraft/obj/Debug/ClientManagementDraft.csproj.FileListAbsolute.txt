@@ -1,0 +1,8 @@
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\obj\Debug\ClientManagementDraft.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\obj\Debug\ClientManagementDraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\obj\Debug\ClientManagementDraft.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\bin\Debug\ClientManagementDraft.exe.config
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\bin\Debug\ClientManagementDraft.exe
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\bin\Debug\ClientManagementDraft.pdb
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\obj\Debug\ClientManagementDraft.exe
+C:\Users\TLewi\source\repos\ClientApp1\ClientManagementDraft\obj\Debug\ClientManagementDraft.pdb
