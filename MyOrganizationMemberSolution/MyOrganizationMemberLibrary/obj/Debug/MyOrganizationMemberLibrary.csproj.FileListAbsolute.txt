@@ -1,0 +1,12 @@
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Debug\MyOrganizationMemberLibrary.dll
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Debug\MyOrganizationMemberLibrary.pdb
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.dll
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.pdb
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolutionv1\MyOrganizationMemberLibrary\bin\Debug\MyOrganizationMemberLibrary.dll
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolutionv1\MyOrganizationMemberLibrary\bin\Debug\MyOrganizationMemberLibrary.pdb
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolutionv1\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolutionv1\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolutionv1\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.dll
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolutionv1\MyOrganizationMemberLibrary\obj\Debug\MyOrganizationMemberLibrary.pdb

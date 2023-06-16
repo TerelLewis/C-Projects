@@ -1,0 +1,5 @@
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\MyOrganizationMemberApplication.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\MyOrganizationMemberApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\MyOrganizationMemberApplication.Properties.Resources.resources
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\MyOrganizationMemberApplication.csproj.GenerateResource.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberApplication\obj\Debug\MyOrganizationMemberApplication.csproj.CoreCompileInputs.cache

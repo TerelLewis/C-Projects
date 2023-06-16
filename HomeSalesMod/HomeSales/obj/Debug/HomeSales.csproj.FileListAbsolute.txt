@@ -1,0 +1,8 @@
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\bin\Debug\HomeSales.exe.config
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\bin\Debug\HomeSales.exe
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\bin\Debug\HomeSales.pdb
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\obj\Debug\HomeSales.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\obj\Debug\HomeSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\obj\Debug\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\obj\Debug\HomeSales.exe
+C:\Users\TLewi\source\repos\HomeSalesMod\HomeSales\obj\Debug\HomeSales.pdb

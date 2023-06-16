@@ -1,0 +1,6 @@
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Release\MyOrganizationMemberLibrary.dll
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\bin\Release\MyOrganizationMemberLibrary.pdb
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Release\MyOrganizationMemberLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Release\MyOrganizationMemberLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Release\MyOrganizationMemberLibrary.dll
+C:\Users\TLewi\source\repos\MyOrganizationMemberSolution\MyOrganizationMemberLibrary\obj\Release\MyOrganizationMemberLibrary.pdb
