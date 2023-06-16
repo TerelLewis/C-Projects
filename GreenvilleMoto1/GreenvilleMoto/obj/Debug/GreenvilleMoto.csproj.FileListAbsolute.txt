@@ -1,0 +1,8 @@
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\bin\Debug\GreenvilleMoto.exe.config
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\bin\Debug\GreenvilleMoto.exe
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\bin\Debug\GreenvilleMoto.pdb
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\obj\Debug\GreenvilleMoto.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\obj\Debug\GreenvilleMoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\obj\Debug\GreenvilleMoto.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\obj\Debug\GreenvilleMoto.exe
+C:\Users\TLewi\source\repos\GreenvilleMoto1\GreenvilleMoto\obj\Debug\GreenvilleMoto.pdb

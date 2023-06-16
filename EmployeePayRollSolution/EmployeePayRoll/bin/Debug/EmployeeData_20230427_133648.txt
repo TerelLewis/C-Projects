@@ -1,0 +1,6 @@
+EmployeeId: 1504446987, EmployeeName: TEREL LEWIS, Salary: 20
+Paycheck: 0.769230769230769
+
+EmployeeId: 1478886932, EmployeeName: TAMIA LEWIS, Salary: 25
+Paycheck: 0.961538461538462
+

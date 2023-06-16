@@ -1,0 +1,11 @@
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\bin\Debug\EmployeePayRoll.exe.config
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\bin\Debug\EmployeePayRoll.exe
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\bin\Debug\EmployeePayRoll.pdb
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\bin\Debug\EmployeePayrollLibrary.dll
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\bin\Debug\EmployeePayrollLibrary.pdb
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\obj\Debug\EmployeePayRoll.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\obj\Debug\EmployeePayRoll.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\obj\Debug\EmployeePayRoll.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\obj\Debug\EmployeePayRoll.csproj.CopyComplete
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\obj\Debug\EmployeePayRoll.exe
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayRoll\obj\Debug\EmployeePayRoll.pdb

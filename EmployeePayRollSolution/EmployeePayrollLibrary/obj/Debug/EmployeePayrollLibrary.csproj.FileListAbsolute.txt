@@ -1,0 +1,6 @@
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayrollLibrary\bin\Debug\EmployeePayrollLibrary.dll
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayrollLibrary\bin\Debug\EmployeePayrollLibrary.pdb
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayrollLibrary\obj\Debug\EmployeePayrollLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayrollLibrary\obj\Debug\EmployeePayrollLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayrollLibrary\obj\Debug\EmployeePayrollLibrary.dll
+C:\Users\TLewi\source\repos\EmployeePayRollSolution\EmployeePayrollLibrary\obj\Debug\EmployeePayrollLibrary.pdb

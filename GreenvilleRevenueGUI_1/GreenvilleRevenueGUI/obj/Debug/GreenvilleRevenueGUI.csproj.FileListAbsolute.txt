@@ -1,0 +1,11 @@
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\TLewi\source\repos\GreenvilleRevenueGUI_1\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb
