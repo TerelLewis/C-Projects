@@ -1,0 +1,6 @@
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionLibrary\bin\Debug\SalesTransactionLibrary.dll
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionLibrary\bin\Debug\SalesTransactionLibrary.pdb
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionLibrary\obj\Debug\SalesTransactionLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionLibrary\obj\Debug\SalesTransactionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionLibrary\obj\Debug\SalesTransactionLibrary.dll
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionLibrary\obj\Debug\SalesTransactionLibrary.pdb

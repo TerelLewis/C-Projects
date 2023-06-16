@@ -1,0 +1,11 @@
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe.config
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.pdb
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\bin\Debug\SalesTransactionLibrary.dll
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\bin\Debug\SalesTransactionLibrary.pdb
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csproj.CopyComplete
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.exe
+C:\Users\TLewi\source\repos\SalesTransactionSolution\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.pdb
