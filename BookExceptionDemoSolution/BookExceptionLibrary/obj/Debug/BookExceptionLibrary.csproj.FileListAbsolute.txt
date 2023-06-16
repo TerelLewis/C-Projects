@@ -1,0 +1,6 @@
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionLibrary\bin\Debug\BookExceptionLibrary.dll
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionLibrary\bin\Debug\BookExceptionLibrary.pdb
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionLibrary\obj\Debug\BookExceptionLibrary.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionLibrary\obj\Debug\BookExceptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionLibrary\obj\Debug\BookExceptionLibrary.dll
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionLibrary\obj\Debug\BookExceptionLibrary.pdb

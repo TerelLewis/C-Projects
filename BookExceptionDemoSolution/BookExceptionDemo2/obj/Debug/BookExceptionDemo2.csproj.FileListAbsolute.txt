@@ -1,0 +1,11 @@
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\bin\Debug\BookExceptionDemo2.exe.config
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\bin\Debug\BookExceptionDemo2.exe
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\bin\Debug\BookExceptionDemo2.pdb
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\bin\Debug\BookExceptionLibrary.dll
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\bin\Debug\BookExceptionLibrary.pdb
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\obj\Debug\BookExceptionDemo2.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\obj\Debug\BookExceptionDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\obj\Debug\BookExceptionDemo2.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\obj\Debug\BookExceptionDemo2.csproj.CopyComplete
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\obj\Debug\BookExceptionDemo2.exe
+C:\Users\TLewi\source\repos\BookExceptionDemoSolution\BookExceptionDemo2\obj\Debug\BookExceptionDemo2.pdb

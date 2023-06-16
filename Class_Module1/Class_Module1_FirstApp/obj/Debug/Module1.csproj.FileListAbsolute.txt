@@ -1,0 +1,8 @@
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\bin\Debug\Class_Module1_FirstApp.exe.config
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\bin\Debug\Class_Module1_FirstApp.exe
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\bin\Debug\Class_Module1_FirstApp.pdb
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\obj\Debug\Module1.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\obj\Debug\Module1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\obj\Debug\Module1.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\obj\Debug\Class_Module1_FirstApp.exe
+C:\Users\TLewi\source\repos\Class_Module1\Class_Module1_FirstApp\obj\Debug\Class_Module1_FirstApp.pdb

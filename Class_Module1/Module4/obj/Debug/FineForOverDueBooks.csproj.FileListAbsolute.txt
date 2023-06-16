@@ -1,0 +1,8 @@
+C:\Users\TLewi\source\repos\Class_Module1\Module4\bin\Debug\Module4.exe.config
+C:\Users\TLewi\source\repos\Class_Module1\Module4\bin\Debug\Module4.exe
+C:\Users\TLewi\source\repos\Class_Module1\Module4\bin\Debug\Module4.pdb
+C:\Users\TLewi\source\repos\Class_Module1\Module4\obj\Debug\FineForOverDueBooks.csproj.AssemblyReference.cache
+C:\Users\TLewi\source\repos\Class_Module1\Module4\obj\Debug\FineForOverDueBooks.csproj.SuggestedBindingRedirects.cache
+C:\Users\TLewi\source\repos\Class_Module1\Module4\obj\Debug\FineForOverDueBooks.csproj.CoreCompileInputs.cache
+C:\Users\TLewi\source\repos\Class_Module1\Module4\obj\Debug\Module4.exe
+C:\Users\TLewi\source\repos\Class_Module1\Module4\obj\Debug\Module4.pdb
